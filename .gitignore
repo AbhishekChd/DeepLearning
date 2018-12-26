@@ -1,3 +1,4 @@
 .directory
 .ipynb_checkpoints
 mnist-mlp/data/ 
+convolutional-neural-networks/cifar-cnn/data
